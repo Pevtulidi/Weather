@@ -41,7 +41,7 @@ import org.json.JSONObject
 
 
 
-const val API_KEY = "46e60e5bba494510862192306222910"
+const val API_KEY = "7a89c0a8ffc94dc594684900222411"
 
 class MainFragment : Fragment() {
     private lateinit var fLocationClient: FusedLocationProviderClient
